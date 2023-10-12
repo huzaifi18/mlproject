@@ -3,7 +3,7 @@
 
 This repository contains an end-to-end machine learning project that that predicts math scores based on writing score, reading score, ethnicity, and parent's level of education.
 
-![preview](preview.png)
+![preview](preview.jpg)
 
 ## Project Structure
 
