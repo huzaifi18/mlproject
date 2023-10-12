@@ -41,7 +41,7 @@ This repository contains an end-to-end machine learning project that that predic
 
 ## Overview
 
-This project aims to build a machine learning model for [describe the problem or dataset briefly]. The project is divided into the following main steps:
+This project aims to build a machine learning model for student's math score prediction. The project is divided into the following main steps:
 
 1. **Data Preparation**:
    
